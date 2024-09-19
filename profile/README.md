@@ -1,0 +1,1 @@
+The Talmud Lab was an offshoot of Georgia Tech's DILAC founded by Dan Jutan and Shaun Regenbaum. It brough tzurat hadaf natively to the web with plain old html, css, and js. It also worked on single word aramaic translation and more.
